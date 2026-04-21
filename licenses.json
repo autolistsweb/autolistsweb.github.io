@@ -1,0 +1,12 @@
+{
+  "licenses": {
+    "UN-2024-NEST-0001-FZTB": {
+      "customer": "Faz Tabassum",
+      "email": "fawad.tabassum@gmail.com",
+      "plan": "annual",
+      "issued": "2026-04-21",
+      "expires": "2027-04-21",
+      "active": true
+    }
+  }
+}
