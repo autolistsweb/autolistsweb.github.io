@@ -7,6 +7,17 @@
       "issued": "2026-04-21",
       "expires": "2027-04-21",
       "active": true
+    },
+    "UN-2026-NEST-0001-09WA": {
+      "key": "UN-2026-NEST-0001-09WA",
+      "customer": "khurram",
+      "email": "info@leadxminibuses.co.uk",
+      "plan": "annual",
+      "status": "active",
+      "issued_date": "2026-04-25",
+      "expiry_date": "2026-05-25",
+      "note": ""
     }
-  }
+  },
+  "next_seq": 2
 }
